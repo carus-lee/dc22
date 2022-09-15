@@ -1,0 +1,4 @@
+client/
+*.ts
+*.swf
+server/logs/

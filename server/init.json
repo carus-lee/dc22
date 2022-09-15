@@ -1,0 +1,39 @@
+{
+	"animation":
+		[
+			{"id":"0", "name":"crawler", "duration":"100", "mid":"hello.swf", "layer":"1", 
+				"options":
+					[
+					{"name":"SWF_TEXT_01", "value":"자막송출 TEST 입니다. 1234567890 ABCDEFGHIJKLNMopqrstuvwxyz"},
+					{"name":"SWF_SPEED" , "value": "5"},
+					{"name":"SWF_Y_POSITION", "value":"850"},
+					{"name":"SWF_FONT_SIZE", "value":"100"},
+					{"name":"SWF_COLOR", "value":"ffffff"},
+					{"name":"SWF_COLOR_BACK", "value":"888888"},
+					{"name":"SWF_FONT_NAME", "value":"궁서"}         
+					]
+			}
+			
+		],
+		"slate": [                
+			{"id":"0", "name":"sun_err.jpg", "duration":"30", "mid":"sun_err.jpg"},
+			{"id":"1", "name":"system_err", "duration":"15", "mid":"system_err.jpg"}
+		],
+		"video clip": [                
+			{"id":"0", "name":"emergency", "clips":
+				[
+					{"mid":"clip_emergency.ts", "duration":"30", "start offset":"0"}
+				]
+			},
+			{"id":"1", "name":"TEST_500", "clips":
+				[
+					{"mid":"clip_emergency.ts", "duration":"500", "start offset":"0"}
+				]
+			}
+			
+		],
+		"alternate content": [                
+			{"id":"0", "name":"SWF Adv.", "mid":"hellow.swf"},
+			{"id":"1", "name":"re", "mid":"re"}
+		]
+}

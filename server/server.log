@@ -1,0 +1,24 @@
+nohup: ignoring input
+데이터가 이미 존재합니다!!!! (2)
+ * Serving Flask app 'prisma' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+/usr/local/lib64/python3.6/site-packages/pymongo/pyopenssl_context.py:28: CryptographyDeprecationWarning: Python 3.6 is no longer supported by the Python core team. Therefore, support for it is deprecated in cryptography and will be removed in a future release.
+  from cryptography.x509 import load_der_x509_certificate as _load_der_x509_certificate
+2022-09-14 15:44:48,786 __main__ group list (debug) ----
+2022-09-14 15:44:48,908 __main__ get get_list_file
+2022-09-14 15:44:48,915 __main__ group list (debug) ----
+2022-09-14 16:21:16,136 __main__ group list (debug) ----
+2022-09-14 16:21:16,218 __main__ get get_list_file
+2022-09-14 16:21:16,223 __main__ group list (debug) ----
+2022-09-14 16:21:28,550 __main__ group list (debug) ----
+2022-09-14 16:21:28,661 __main__ get get_list_file
+2022-09-14 16:21:28,676 __main__ group list (debug) ----
+2022-09-14 16:22:39,498 __main__ group list (debug) ----
+2022-09-14 16:22:39,578 __main__ get get_list_file
+2022-09-14 16:22:39,584 __main__ group list (debug) ----
+데이터가 이미 존재합니다!!!! (2)
+/usr/local/lib64/python3.6/site-packages/pymongo/pyopenssl_context.py:28: CryptographyDeprecationWarning: Python 3.6 is no longer supported by the Python core team. Therefore, support for it is deprecated in cryptography and will be removed in a future release.
+  from cryptography.x509 import load_der_x509_certificate as _load_der_x509_certificate
